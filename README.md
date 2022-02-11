@@ -1,6 +1,6 @@
 ### Hi there, Claudio here.
 
-- 🌱 I’m currently learning/working OCI, AWS, AZURE and GCP.
+✔ I’m currently learning/working OCI, AWS, AZURE and GCP.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudio-git&show_icons=true&theme=dark)
 
