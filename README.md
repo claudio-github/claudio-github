@@ -6,7 +6,8 @@
 
 ##
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+<img src="https://github.com/claudio-github/assets/blob/master/azure-original.svg" width="20" height="20"/>
+<img src="https://github.com/claudio-github/assets/blob/master/amazonwebservices-original.svg" width="20" height="20" />
+  <img src="https://github.com/claudio-github/assets/blob/master/googlecloud-original.svg" width="20" height="20"/>
+  <img src="https://github.com/claudio-github/assets/blob/master/0-3498_oracle-cloud-icon-png-transparent-png.png" width="20" height="20"/>
 </div>
