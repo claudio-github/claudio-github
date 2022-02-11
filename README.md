@@ -10,4 +10,5 @@
 <img src="https://github.com/claudio-github/assets/blob/master/amazonwebservices-original.svg" width="20" height="20" />
   <img src="https://github.com/claudio-github/assets/blob/master/googlecloud-original.svg" width="20" height="20"/>
   <img src="https://github.com/claudio-github/assets/blob/master/0-3498_oracle-cloud-icon-png-transparent-png.png" width="20" height="20"/>
+  <img src="https://github.com/claudio-github/assets/blob/master/java-original-wordmark.svg" width="30" height="30"/>
 </div>
